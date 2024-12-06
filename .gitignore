@@ -1,0 +1,26 @@
+node_modules
+
+# Output
+.output
+.vercel
+package-lock.json
+pnpm-lock.yaml
+/.svelte-kit
+/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Custom folder
+play.js
