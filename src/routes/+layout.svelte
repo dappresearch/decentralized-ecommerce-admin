@@ -20,7 +20,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
     <div class="container">
-        <a class="navbar-brand fw-bold fs-4 text-dark" href="/">apsoshop</a>
+        <a class="navbar-brand fw-bold fs-4 text-dark" href="/">apsostore</a>
         <button
             class="navbar-toggler"
             type="button"
