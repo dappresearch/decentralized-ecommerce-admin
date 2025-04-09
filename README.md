@@ -35,6 +35,16 @@ VITE_PRIVATE_KEY="Your private key"
 
 This private key needs to be related with the Public key(derived from the private key) that is used to encrypt buyer address.
 
+### Video tutorial
+Full video: https://youtu.be/HW9AnF894Go
+
+Admin page installation video: https://youtu.be/QBdC_IfeNQc
+
+### Tutorial Video
+Full video: https://youtu.be/HW9AnF894Go
+
+Front-end installation video: https://youtu.be/QBdC_IfeNQc
+
 ### Node and Npm version
 
 node version >= 20.9.0
